@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2019-12-13, 0:08:14
+    Author     : 19219
+*/
+
+.root {
+    -fx-background-color: blueviolet;
+}
+
+.button {
+    -fx-background-color: red;
+}
+
+.label {
+    -fx-font-size: 14pt;
+    -fx-border-style: dotted;
+    -fx-font-style: italic;
+    -fx-font-family: cursive;
+    -fx-text-fill: red;
+}
+
+.radio-button {
+    -fx-font-size: 16pt;
+    -fx-border-style: dashed;
+    -fx-font-style: italic;
+    -fx-font-family: cursive;
+    -fx-text-fill: khaki;
+}
+
+.check-box {
+    -fx-font-size: 12pt;
+    -fx-border-style: dotted;
+    -fx-font-style: italic;
+    -fx-font-family: cursive;
+    -fx-text-fill: seagreen;
+}

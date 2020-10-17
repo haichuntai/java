@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2019-12-13, 12:55:43
+    Author     : 19219
+*/
+
+.root {
+    -fx-background-color: bisque;
+}
+
+
+.label {
+    -fx-text-fill: red;
+    -fx-font-size: 14pt;
+    -fx-font-family: cursive;
+    -fx-font-style: italic;
+}
+
+.radio-button {
+    -fx-text-fill: green;
+    -fx-text-size: 10pt;
+}
+
+.check-box {
+    -fx-text-fill: yellow;
+    -fx-text-size: 20pt;
+}

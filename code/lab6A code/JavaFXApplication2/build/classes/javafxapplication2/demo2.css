@@ -1,0 +1,21 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2019-12-5, 10:42:48
+    Author     : 19219
+*/
+
+.label{
+    -fx-font-family: cursive;
+    -fx-font-size: 14pt;
+    -fx-font-style: italic;
+    -fx-border-style: dashed;
+}
+
+.button {
+    -fx-font-size: 10pt;
+    -fx-font-weight: 900;
+}
